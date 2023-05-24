@@ -9,5 +9,5 @@ Im Albin Kizhakkedath and Im a Junior App Developer. Im currently learning the b
 ### 🧰 Programming Languages and Tool I use!
 
 <img align="left" alt="C#" width="30px" style="padding-right:10px;" src="[![image](https://github.com/albinkizh/albinkizh/assets/128125744/75858dc6-80a6-405c-99f1-8e17d3829f8a)](https://iconduck.com/icons/27153/c-sharp-c)" />
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
