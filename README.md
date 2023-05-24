@@ -14,4 +14,4 @@ Im Albin Kizhakkedath and Im a Junior App Developer. Im currently learning the b
 
 ---
 
-https://github-readme-stats.vercel.app/api?username=albinkizh
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=albinkizh)](https://github.com/anuraghazra/github-readme-stats)
