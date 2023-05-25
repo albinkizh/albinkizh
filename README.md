@@ -20,7 +20,8 @@ Im Albin Kizhakkedath and Im a Junior App Developer. Im currently learning the b
 
 ---
 
-![][(https://github.com/albinkizh/albinkizh/blob/main/anime-computer.gif)]
+![](https://github.com/albinkizh/albinkizh/blob/main/anime-computer.gif)
+
 ‎‎‎
 ‎‎‎
 
