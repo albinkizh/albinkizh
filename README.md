@@ -16,7 +16,7 @@ Im Albin Kizhakkedath and Im a Junior App Developer. Im currently learning the b
 ‎‎‎
 ---
 
-<img src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fanime-computer-pc-type-hack-gif-17071238&psig=AOvVaw2DC7o_BchGjJgE4rBPvNXE&ust=1685080933720000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCLDV8Oflj_8CFQAAAAAdAAAAABAE](https://media.tenor.com/2c7diqh1oVIAAAAd/anime-computer.gif)" width="498" height="284" />
+<img src="https://media.tenor.com/2c7diqh1oVIAAAAd/anime-computer.gif" width="498" height="284" />
 ‎‎‎
 ‎‎‎
 
