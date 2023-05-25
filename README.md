@@ -16,7 +16,9 @@ Im Albin Kizhakkedath and Im a Junior App Developer. Im currently learning the b
 ‎‎‎
 ---
 
+<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />
 
 ‎‎‎
 ‎‎‎
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=albinkizh&show_icons=true&theme=midnight-purple)
