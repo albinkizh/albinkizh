@@ -27,7 +27,3 @@ Im Albin Kizhakkedath and Im a Junior App Developer. Im currently learning the b
 
 ---
 
-
-### 📊 Stats
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=albinkizh&show_icons=true&theme=midnight-purple)
