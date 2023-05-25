@@ -19,5 +19,7 @@ Im Albin Kizhakkedath and Im a Junior App Developer. Im currently learning the b
 <img src="[https://media.tenor.com/2c7diqh1oVIAAAAd/anime-computer.gif](https://media.tenor.com/2c7diqh1oVIAAAAd/anime-computer.gif)" width="498" height="284" />
 ‎‎‎
 ‎‎‎
+---
+### 📊 Stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=albinkizh&show_icons=true&theme=midnight-purple)
