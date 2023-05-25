@@ -4,7 +4,9 @@
 
 Im Albin Kizhakkedath and Im a Junior App Developer. Im currently learning the base knowledge of C# and can already use it with xaml. Some other Programming Languages I know are md and Python pretty well. My Goal is to get better and make a living out of it in the future. I love to Code and lean new languages.
 
+
 ---
+
 
 ### 🧰 Programming Languages and Tool I use!
 
@@ -14,12 +16,16 @@ Im Albin Kizhakkedath and Im a Junior App Developer. Im currently learning the b
 
 ‎‎‎
 ‎‎‎
+
 ---
+
 
 <img src="[https://media.tenor.com/2c7diqh1oVIAAAAd/anime-computer.gif](https://media.tenor.com/2c7diqh1oVIAAAAd/anime-computer.gif)" width="498" height="284" />
 ‎‎‎
 ‎‎‎
+
 ---
+
 
 ### 📊 Stats
 
