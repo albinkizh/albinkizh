@@ -15,6 +15,7 @@ Im Albin Kizhakkedath and Im a Junior App Developer. Im currently learning the b
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
 <img align="left" alt="Figma" width="30px" style="padding-right:10px;" src="https://cdn.sanity.io/images/599r6htc/localized/46a76c802176eb17b04e12108de7e7e0f3736dc6-1024x1024.png?w=670&h=670&q=75&fit=max&auto=format"/>
+<img align="left" alt="Miro" width="30px" style="padding-right:10px;" src="https://assets.stickpng.com/images/6299f743b04c5ae587c4119d.png" />
 
 ‎‎‎
 ‎‎‎
