@@ -1,6 +1,6 @@
 # 🤯 Hello!/Servus! <img src="https://github.com/wervlad/wervlad/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d" width="28px" alt="👋"></h1>
 
-**`Junior App Developer/Applikations-Entwickler`**
+**`Junior App Dev/Applikations-Entwickler`**
 
 Im Albin Kizhakkedath, a Junior App Developer. Im currently learning the base knowledge of C# and can already use it with xaml. Some other Programming Languages I know are md and Python pretty well. My Goal is to get better and make a living out of it in the future. I love to Code and lean new languages.
 
