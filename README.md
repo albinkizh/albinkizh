@@ -15,7 +15,7 @@ Im Albin Kizhakkedath, a Junior App Developer. Im currently learning the base kn
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
 <img align="left" alt="Figma" width="30px" style="padding-right:10px;" src="https://cdn.sanity.io/images/599r6htc/localized/46a76c802176eb17b04e12108de7e7e0f3736dc6-1024x1024.png?w=670&h=670&q=75&fit=max&auto=format"/>
 <img align="left" alt="Miro" width="30px" style="padding-right:10px;" src="https://www.dockhunt.com/_next/image?url=https%3A%2F%2Fdockhunt-images.nyc3.cdn.digitaloceanspaces.com%2F0f9b0f01-ef9d-4a0e-bfa3-4109d33dc563&w=384&q=75" />
-<img align="left" alt="Blender" width="30px" style="padding-right:10px;" src=https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/2503px-Blender_logo_no_text.svg.png/>
+<img align="left" alt="Blender" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/2503px-Blender_logo_no_text.svg.png"/>
 ‎‎‎
 ‎‎‎
 
