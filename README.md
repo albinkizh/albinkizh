@@ -2,7 +2,7 @@
 
 **`Junior App Dev/Applikations-Entwickler`**
 
-Im Albin Kizhakkedath, a Junior App Developer. Im currently learning the base knowledge of C# and can already use it with xaml. Some other Programming Languages I know are md and Python pretty well. My Goal is to get better and make a living out of it in the future. I love to Code and lean new languages.
+Im Albin Kizhakkedath, a Junior App Developer. Im currently learning the base knowledge of C# and can already use it with xaml. Some other Programming Languages I know are md and Python pretty well. My Goal is to get better and make a living out of it in the future. I love to Code and learn new languages.
 
 
 ---
