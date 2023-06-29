@@ -37,9 +37,6 @@ Im Albin Kizhakkedath, a Junior App Developer. Im currently learning the base kn
   <a href="https://github.com/albinkizh">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=albinkizh&hide_border=true&card_width=338&theme=transparent" />
   </a>
-  <a href="https://github.com/albinkizh">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=albinkizh&theme=transparent" />
-  </a>
     <a href="https://github.com/albinkizh">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=albinkizh&theme=transparent" />
 </p>
