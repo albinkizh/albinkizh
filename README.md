@@ -21,14 +21,6 @@ Im Albin Kizhakkedath, a Junior App Developer. Im currently learning the base kn
 
 ---
 
-![](https://github.com/albinkizh/albinkizh/blob/main/anime-computer.gif)
-
-‎‎‎
-‎‎‎
-
----
-
-<details>
 <p align="center">
   <a href="https://github.com/albinkizh">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=albinkizh&theme=transparent" />
@@ -39,6 +31,4 @@ Im Albin Kizhakkedath, a Junior App Developer. Im currently learning the base kn
     <a href="https://github.com/albinkizh">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=albinkizh&theme=transparent" />
 </p>
-</details>
 
----
