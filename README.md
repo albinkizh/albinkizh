@@ -1,8 +1,9 @@
 # 🤯 Hello!/Servus! <img src="https://github.com/wervlad/wervlad/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d" width="28px" alt="👋"></h1>
-
+‎‎‎
 **`Junior App Dev/Applikations-Entwickler`**
 
-Im Albin Kizhakkedath, a Junior App Developer. Im currently learning the base knowledge of Javascript. Some other Programming Languages I know are Markdown, Python and C# pretty well. My Goal is to get better and make a living out of it in the future. I love to Code and learn new languages.
+Im Albin Kizhakkedath, a Junior App Developer. Im currently learning C++. Some other Programming Languages I know are F#, Javascript and C# pretty well. My Goal is to get better and make a living out of it in the future. I love to Code and learn new languages.
+Dont bother to notify if you need something from me :)
 
 
 ---
@@ -20,6 +21,7 @@ Im Albin Kizhakkedath, a Junior App Developer. Im currently learning the base kn
 ‎‎‎
 
 ---
+
 
 <p align="center">
   <a href="https://github.com/albinkizh">
