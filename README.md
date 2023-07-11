@@ -36,6 +36,7 @@ Im Albin Kizhakkedath, a Junior App Developer. Im currently learning C++. Some o
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark">
 </p>
 
+<br>
 
 <a algin="left" href="https://www.buymeacoffee.com/albinkizhaV">
   <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" height="30em">
