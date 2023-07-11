@@ -38,6 +38,7 @@ Im Albin Kizhakkedath, a Junior App Developer. Im currently learning C++. Some o
 
 <br>
 
+<p>
 <a algin="left" href="https://www.buymeacoffee.com/albinkizhaV">
   <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" height="30em">
 </a>
@@ -45,3 +46,4 @@ Im Albin Kizhakkedath, a Junior App Developer. Im currently learning C++. Some o
 <a href="https://visitcount.itsvg.in">
   <img  align="right" src="https://visitcount.itsvg.in/api?id=albinkizh&label=Profile%20Views&color=7&icon=2&pretty=true" height="30em"/>
 </a>
+</p>
