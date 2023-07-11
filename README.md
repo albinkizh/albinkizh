@@ -1,5 +1,9 @@
 <h1 align="center">
-💫 About Me:
+<picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f525/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f525/512.gif" alt="🔥" width="32" height="32">
+</picture>
+ About Me:
 </h1>
 
 <h3 align="center">
@@ -9,7 +13,11 @@ Im Albin Kizhakkedath, a Junior App Developer. Im currently learning C++. Some o
 <br>
 
 <h1 align="center">
- 💻 Tech Stack:
+ <picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/2604_fe0f/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2604_fe0f/512.gif" alt="☄" width="32" height="32">
+</picture>
+ Tech Stack:
 </h1>
 
 <p align="center">
@@ -27,7 +35,11 @@ Im Albin Kizhakkedath, a Junior App Developer. Im currently learning C++. Some o
 <br>
 
 <h1 align="center">
-📊 GitHub Stats:
+<picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f6eb/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f6eb/512.gif" alt="🛫" width="32" height="32">
+</picture>
+ GitHub Stats:
 </h1>
 
 <p align="center">
