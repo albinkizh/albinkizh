@@ -1,36 +1,46 @@
-# 🤯 Hello!/Servus! <img src="https://github.com/wervlad/wervlad/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d" width="28px" alt="👋"></h1>
-‎‎‎
-**`Junior App Dev/Applikations-Entwickler`**
+<h1 align="center">
+💫 About Me:
+</h1>
 
-Im Albin Kizhakkedath, a Junior App Developer. Im currently learning C++. Some other Programming Languages I know are F#, Javascript and C# pretty well. My Goal is to get better and make a living out of it in the future. I love to Code and learn new languages.
-Dont bother to notify if you need something from me :)
+<h3 align="center">
+Im Albin Kizhakkedath, a Junior App Developer. Im currently learning C++. Some other Programming Languages I know are F#, Javascript and C# pretty well. My Goal is to get better and make a living out of it in the future. I love to Code and learn new languages. Dont bother to notify if you need something from me :)
+</h3>
 
+<br>
 
----
-
-
-### 🧰 Programming Languages and Tools I use!
-
-
-<img align="left" alt="C#" width="30px" style="padding-right:10px;" src="https://camo.githubusercontent.com/8d56e87edf99e89bfc457cd62462e0b7aae19e6b197b1df5c542d474d8d76f81/68747470733a2f2f646576656c6f7065722e6665646f726170726f6a6563742e6f72672f7374617469632f6c6f676f2f6373686172702e706e67" />
-<img align="left" alt="Figma" width="30px" style="padding-right:10px;" src="https://cdn.sanity.io/images/599r6htc/localized/46a76c802176eb17b04e12108de7e7e0f3736dc6-1024x1024.png?w=670&h=670&q=75&fit=max&auto=format"/>
-<img align="left" alt="Miro" width="30px" style="padding-right:10px;" src="https://www.dockhunt.com/_next/image?url=https%3A%2F%2Fdockhunt-images.nyc3.cdn.digitaloceanspaces.com%2F0f9b0f01-ef9d-4a0e-bfa3-4109d33dc563&w=384&q=75" />
-<img align="left" alt="Blender" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/2503px-Blender_logo_no_text.svg.png"/>
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn-icons-png.flaticon.com/512/732/732190.png"/>
-<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />‎‎‎
-‎‎‎
-
----
-
+<h1 align="center">
+ 💻 Tech Stack:
+</h1>
 
 <p align="center">
-  <a href="https://github.com/albinkizh">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=albinkizh&theme=transparent" />
-  </a>
-  <a href="https://github.com/albinkizh">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=albinkizh&hide_border=true&card_width=338&theme=transparent" />
-  </a>
-    <a href="https://github.com/albinkizh">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=albinkizh&theme=transparent" />
+<img src="https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white" style: height="30em">
+<img src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white" style: height="30em">
+<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white" style: height="30em">
+<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E" style: height="30em">
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white" style: height="30em">
+<img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=flat&logo=blender&logoColor=white" style: height="30em">
+<img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white" style: height="30em">
+<img src="https://img.shields.io/badge/Krita-203759?style=flat&logo=krita&logoColor=EEF37B" style: height="30em">
+<img src="https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white" style: height="30em">
 </p>
 
+<br>
+
+<h1 align="center">
+📊 GitHub Stats:
+</h1>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=albinkizh&theme=dark&hide_border=true" style: height="180em">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=albinkizh&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" style: height="180em"> 
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark">
+</p>
+
+
+<a algin="left" href="https://www.buymeacoffee.com/albinkizhaV">
+  <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" height="30em">
+</a>
+  
+<a href="https://visitcount.itsvg.in">
+  <img  align="right" src="https://visitcount.itsvg.in/api?id=albinkizh&label=Profile%20Views&color=7&icon=2&pretty=true" height="30em"/>
+</a>
