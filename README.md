@@ -26,9 +26,7 @@ Im Albin Kizhakkedath, a Junior App Developer. Im currently learning C++. Some o
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white" style: height="30em">
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E" style: height="30em">
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white" style: height="30em">
-<img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=flat&logo=blender&logoColor=white" style: height="30em">
 <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white" style: height="30em">
-<img src="https://img.shields.io/badge/Krita-203759?style=flat&logo=krita&logoColor=EEF37B" style: height="30em">
 <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white" style: height="30em">
 </p>
 
