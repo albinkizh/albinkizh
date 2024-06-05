@@ -7,7 +7,7 @@
 </h1>
 
 <h3 align="center">
-Im Albin Kizhakkedath, a Junior App Developer. Im currently learning C++. Some other Programming Languages I know are F#, Javascript and C# pretty well. My Goal is to get better and make a living out of it in the future. I love to Code and learn new languages. Dont bother to notify if you need something from me :)
+Im Albin Kizhakkedath, a Junior App Developer. Im currently learning PHP. Some other Programming Languages I know are C++ and C# pretty well. My Goal is to get better and make a living out of it in the future. I love to Code and learn new languages. Dont bother to notify if you need something from me :)
 </h3>
 
 <br>
